@@ -1,2 +1,5 @@
 player/proj.mac/quick-x-player.xcodeproj/xcuserdata/
 lib/cocos2d-x/cocos/scripting/lua-bindings/auto/api/
+lib/cocos2d-x/cocos/platform/android/java/bin/
+lib/cocos2d-x/cocos/platform/android/java/project.properties
+lib/cocos2d-x/cocos/platform/android/java/gen/
