@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5A7BFA7E-D7B2-4735-AD32-D7205F903D68</string>
+	<key>IDESourceControlProjectName</key>
+	<string>quick-x-player</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>03BB0403-9051-43D6-8517-DFA2DCD75240</key>
+		<string>https://github.com/dualface/cocos2d-x.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>player/proj.mac/quick-x-player.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>03BB0403-9051-43D6-8517-DFA2DCD75240</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dualface/cocos2d-x.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>03BB0403-9051-43D6-8517-DFA2DCD75240</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>03BB0403-9051-43D6-8517-DFA2DCD75240</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cocos2d-x-dualface</string>
+		</dict>
+	</array>
+</dict>
+</plist>
